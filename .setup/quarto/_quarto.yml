@@ -3,13 +3,13 @@ project:
   output-dir: quarto
 
 book:
-  title: "lib-2010-2019-article"
+  title: "lib-1980-1989-book"
   author: "Ivan Jacob Agaloos Pesigan"
   date: today
   search: true
-  repo-url: https://github.com/ijapesigan/lib-2010-2019-article
+  repo-url: https://github.com/ijapesigan/lib-1980-1989-book
   repo-actions: [edit]
-  site-url: https://ijapesigan.github.io/lib-2010-2019-article/index.html
+  site-url: https://ijapesigan.github.io/lib-1980-1989-book/index.html
   sidebar:
     collapse-level: 3
     pinned: true
