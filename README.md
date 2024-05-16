@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-1980-1989-book/actions/workflows/shellc
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+entry-spacing="0" line-spacing="2">
 
 <div id="ref-Bergstrom-1984" class="csl-entry">
 
