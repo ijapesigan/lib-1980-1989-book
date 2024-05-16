@@ -1,7 +1,7 @@
 lib-1980-1989-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-12
+2024-05-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -17,6 +17,14 @@ Check](https://github.com/ijapesigan/lib-1980-1989-book/actions/workflows/shellc
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 line-spacing="2">
+
+<div id="ref-Bergstrom-1984" class="csl-entry">
+
+Bergstrom, A. R. (1984). Continuous time stochastic models and issues of
+aggregation over time. In Z. Griliches & M. D. Intriligator (Eds.),
+*Handbook of econometrics* (Vol. 2).
+
+</div>
 
 <div id="ref-Cohen-1988" class="csl-entry">
 
